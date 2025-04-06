@@ -1,4 +1,4 @@
-# 🚀 GH200-vllm-guide: Installing vLLM + Triton on GH200
+# 🚀 Installing vLLM + Triton on GH200
 This guide provides a setup for running `vLLM` with `Triton` on NVIDIA GH200.
 
 ---
